@@ -1,1 +1,5 @@
+>>>>>>> foods 
 Chicken pizza cola
+=======
+Iron man, spider man, mission impossible 
+>>>>>>> movies
